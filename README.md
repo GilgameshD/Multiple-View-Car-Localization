@@ -10,7 +10,7 @@ In this paper, we present an accurate approach to estimate vehicles' pose and sh
 ## CNN and some experiment results
 
 ### The CNN architecture is designed as follow
-![CNN](https://github.com/GilgameshD/Multiple-View-Car-Localization/cnn.jpg)
+![CNN](https://github.com/GilgameshD/Multiple-View-Car-Localization/blob/master/cnn.jpg)
 
 ### Some experiment results
-![result](https://github.com/GilgameshD/Multiple-View-Car-Localization/result.jpg)
+![result](https://github.com/GilgameshD/Multiple-View-Car-Localization/blob/master/result.jpg)
