@@ -1,4 +1,4 @@
-% This function will show all results in figures
+getIpOptionsgetIpOptions% This function will show all results in figures
 
 function [model_2D_l, model_2D_r] = visualize_all(heatpoint_2D, fval, img_to_be_shown, estimated_pose, heatmap, center, scale, camera, model)
     
